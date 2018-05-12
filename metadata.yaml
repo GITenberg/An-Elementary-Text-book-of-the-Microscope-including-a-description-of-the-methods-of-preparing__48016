@@ -1,10 +1,16 @@
 _repo: An-Elementary-Text-book-of-the-Microscope-including-a-description-of-the-methods-of-preparing__48016
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48016-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffith, John William
     gutenberg_agent_id: '44580'
     url: http://www.gutenberg.org/2009/agents/44580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48016#An-Elementary-Text-book-of-the-Microscope-including-a-description-of-the-methods-of-preparing_
 gutenberg_issued: '2015-01-18'
 gutenberg_type: Text
 identifiers:
